@@ -1,0 +1,92 @@
+[
+  {
+    "img": "https://cursodeorganizaciondelhogar.com/wp-content/uploads/2018/08/ropa-elegante-para-mujeres-segun-su-edad.jpg",
+    "genero": "femenino",
+    "id": 1,
+    "nameM": "vestido",
+    "precio": "$ 225.000",
+    "talla": "s,m,l,xl,xxl",
+    "caractristicas": "Hermoso enterizo para todo tipo de ocaciones"
+  },
+  {
+    "img": "https://www.aquimoda.com/wp-content/uploads/2012/01/ropa_m5.jpg",
+    "genero": "femenino",
+    "id": 2,
+    "name": "vestido2",
+    "precio": "$ 315.000",
+    "talla": "s,m,l,xl,xxl",
+    "caractristicas": "Expectacular vestido, elegante paralos grandes eventos"
+  },
+  {
+    "img": "https://www.dhresource.com/600x600/f2/albu/g6/M00/11/14/rBVaR1vPRV-ALg_VAAGzjv2LImg318.jpg",
+    "genero": "femenino",
+    "id": 3,
+    "name": "vestido3",
+    "precio": "$ 125.000",
+    "talla": "s,m,l,xl,xxl",
+    "caractristicas": "Atrevido y senxual, asi te sentiras con esta combinacion perfecta"
+  },
+  {
+    "img": "https://i.pinimg.com/564x/89/41/fb/8941fb9729f0e2977ca7263e555cbdcd.jpg",
+    "genero": "femenino",
+    "id": 4,
+    "name": "vestido4",
+    "precio": "$ 155.000",
+    "talla": "s,m,l,xl,xxl",
+    "caractristicas": "Hermoso vestido casual, para todos los dias"
+  },
+  {
+    "img": "https://ae01.alicdn.com/kf/H98a0d68f68fc4e6b9ade026e75459287O/Verano-Mujer-slim-blanco-vestido-de-las-mujeres-ropa-elegante-hueco-ganchillo-encaje-cuello-en-O.jpg_q50.jpg",
+    "genero": "femenino",
+    "id": 5,
+    "name": "vestido5",
+    "precio": "$ 195.000",
+    "talla": "s,m,l,xl,xxl",
+    "caractristicas": "Esta en tu mejor elecion , para los fines de semana , elegancia y juventud en una misma prenda"
+  },
+  {
+    "img": "https://archzine.es/wp-content/uploads/2019/02/ideas-moda-hombre-vaqeuros-azules-ropa-elegante-hombre-chaqueta-color-gris-camisa-gris-peinado-halc%C3%B3n.jpg",
+    "genero": "masculino",
+    "id": 6,
+    "name": "camisa1",
+    "precio": "$ 145.000",
+    "talla": "s,m,l,xl,xxl",
+    "caractristicas": "Hermoso saco para darle un toque de elegancia a tus dias de trabajo"
+  },
+  {
+    "img": "https://ariztor.com/wp-content/uploads/2020/06/business-businessman-contemporary-corporate-532220-1-683x1024.jpg",
+   "genero": "masculino",
+    "id": 7,
+    "name": "camisa2",
+    "precio": "$ 175.000",
+    "talla": "s,m,l,xl,xxl",
+    "caractristicas": "Te gusta vestir elegante y casual a la vez, esta es tu mejor combinacion"
+  },
+  {
+    "img": "https://i.pinimg.com/originals/84/94/9f/84949f1cbcf7871af8325ef61b641a60.jpg",
+   "genero": "masculino",
+    "id": 8,
+    "name": "camisa3",
+    "precio": "$ 125.000",
+    "talla": "s,m,l,xl,xxl",
+    "caractristicas": "ESta es tu mejor elecion, si quiere tener algo fresco y renovado en tu ropa"
+  },
+  {
+    "img": "https://cuerosvelezco.vteximg.com.br/arquivos/ids/208698-450-675/1030582-28-01-polo.jpg?v=637486533456700000",
+   "genero": "masculino",
+    "id": 9,
+    "name": "camisa4",
+    "precio": "$ 195.000",
+    "talla": "s,m,l,xl,xxl",
+    "caractristicas": "Camiseta deportiva , para lso domingo de paseo"
+  },
+  {
+    "img": "https://ae01.alicdn.com/kf/Haf1c8656a161417f8d6d43841fb4d1c7w/Camisas-de-vestir-de-color-burdeos-para-hombre-ropa-de-boda-elegante-para-caballeros-ropa-de.jpg_Q90.jpg_.webp",
+    "genero": "masculino",
+    "id": 10,
+    "name": "camisa5",
+    "precio": "$ 225.000",
+    "talla": "s,m,l,xl,xxl",
+    "caractristicas": "Quieres ser la mirada de todas las mujeres, esta es la mejor opcion"
+  }
+]
